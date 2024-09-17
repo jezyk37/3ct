@@ -1,0 +1,7 @@
+Temat: Wprowadzenie/powtórzenie paradygmat programowania obiektowego
+
+class -> obiekt 
+
+Zadanie1:
+Klase prostokat która ma prywatne pola szerokość i wysokość
+dodaj metode do ustawiania i cos tam
