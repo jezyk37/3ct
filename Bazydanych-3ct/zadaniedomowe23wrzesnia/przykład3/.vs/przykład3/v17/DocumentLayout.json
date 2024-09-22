@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubus\\Desktop\\szko\u0142a\\3ct\\Bazydanych-3ct\\zadaniedomowe23wrzesnia\\przyk\u0142ad3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437CCCE5-B6DC-4283-8FB6-9AC0AC2F06C2}|przyk\u0142ad3\\przyk\u0142ad3.vcxproj|C:\\Users\\kubus\\Desktop\\szko\u0142a\\3ct\\Bazydanych-3ct\\zadaniedomowe23wrzesnia\\przyk\u0142ad3\\przyk\u0142ad3\\przyk\u0142ad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{437CCCE5-B6DC-4283-8FB6-9AC0AC2F06C2}|przyk\u0142ad3\\przyk\u0142ad3.vcxproj|solutionrelative:przyk\u0142ad3\\przyk\u0142ad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "przyk\u0142ad3.cpp",
+              "DocumentMoniker": "C:\\Users\\kubus\\Desktop\\szko\u0142a\\3ct\\Bazydanych-3ct\\zadaniedomowe23wrzesnia\\przyk\u0142ad3\\przyk\u0142ad3\\przyk\u0142ad3.cpp",
+              "RelativeDocumentMoniker": "przyk\u0142ad3\\przyk\u0142ad3.cpp",
+              "ToolTip": "C:\\Users\\kubus\\Desktop\\szko\u0142a\\3ct\\Bazydanych-3ct\\zadaniedomowe23wrzesnia\\przyk\u0142ad3\\przyk\u0142ad3\\przyk\u0142ad3.cpp",
+              "RelativeToolTip": "przyk\u0142ad3\\przyk\u0142ad3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T12:16:36.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
