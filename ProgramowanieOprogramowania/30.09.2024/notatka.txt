@@ -1,0 +1,9 @@
+JIRA Tablica Projektu - wprowadzenie
+
+jira
+kamban
+scrum
+czym jest backlog
+sprint
+agile
+event storming
